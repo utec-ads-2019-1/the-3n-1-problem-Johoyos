@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/the_3n_1_problem_Johoyos.dir/main.cpp.o  -o the_3n_1_problem_Johoyos 

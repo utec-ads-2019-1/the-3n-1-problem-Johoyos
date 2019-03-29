@@ -1,0 +1,3 @@
+/home/yoncho/CLionProjects/the-3n-1-problem-Johoyos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yoncho/CLionProjects/the-3n-1-problem-Johoyos/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yoncho/CLionProjects/the-3n-1-problem-Johoyos/cmake-build-debug/CMakeFiles/the_3n_1_problem_Johoyos.dir
